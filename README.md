@@ -31,7 +31,7 @@ Create a new note:
 
 `$ curl -H "Content-Type: application/json" -X POST -d '{"title":"Kubernetes","content":"Best container orchestration tool ever"}' http://localhost:8080/notes`
 
-## Features
+## Features 
 
 - `Flyway` to manage database migrations.
 - `maven-surefire-plugin` to run only unit tests with `mvn test`.
